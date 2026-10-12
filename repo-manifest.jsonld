@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-restx/flask-restx/commit/30abd919e7c6bb2533eef57ec9c2339d7de69b39",
       "git:hexsha": "30abd919e7c6bb2533eef57ec9c2339d7de69b39",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T22:46:56.717364+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-restx/flask-restx/commit/340dc3e876b7a4c5941170432d015c6a0266229c",

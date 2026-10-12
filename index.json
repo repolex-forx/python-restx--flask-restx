@@ -1,0 +1,11 @@
+{
+  "org": "python-restx",
+  "repo": "flask-restx",
+  "versions": [
+    {
+      "commit": "30abd919e7c6bb2533eef57ec9c2339d7de69b39",
+      "tag": "",
+      "parsed_at": "2026-10-12T22:46:56.717908+00:00"
+    }
+  ]
+}
